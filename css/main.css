@@ -16,7 +16,7 @@ html {
   border-color: lightgreen;
 }
 
-.btn-hover {
+.btn:hover {
   background-color: darkgreen;
   border-color: darkgreen;
 }
